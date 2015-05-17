@@ -1,0 +1,24 @@
+{
+  "name": "orbcamserv",
+  "version": "1.0.0",
+  "description": "Nodejs app for initializing camera (/dev/video0) using ffmpeg.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orbknives/orbcamserv.git"
+  },
+  "author": "Orbknives",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orbknives/orbcamserv/issues"
+  },
+  "homepage": "https://github.com/orbknives/orbcamserv",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.3",
+    "fluent-ffmpeg": "^2.0.1"
+  }
+}

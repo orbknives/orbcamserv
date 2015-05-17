@@ -1,2 +1,2 @@
 # orbcamserv
-Nodejs app for starting camera (/dev/video0) using ffmpeg.
+Nodejs app for initializing camera (/dev/video0) using ffmpeg.
